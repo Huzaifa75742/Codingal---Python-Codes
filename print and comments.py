@@ -1,2 +1,11 @@
 print ("Hello World")
-print (17*8)
+print (25*5)
+# This is a comment
+print ("I am learning Python")
+print ("I am Huzaifa")
+print (13/8)
+print ("I am in codingal")
+print ("I have completed my first program")
+print ("I play games")
+print ("I play football")
+print ("I have a laptop")
