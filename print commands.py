@@ -1,5 +1,13 @@
-print ("Welcome to world of programming")
-print (4)
-print ("Hello python \n")
-print ("Hello" ,5)
-print ("Welcome to" ,end="*")
+x = 5
+y = "John"
+print(x)
+print(y)
+
+coding = "Codingal"
+print(coding)
+
+name = input("Enter your name:")
+print("/nHello" ,name, "/nwelcome to Codingal")
+
+
+
