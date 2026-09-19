@@ -10,5 +10,12 @@ except ValueError as ex:
     print("Invalid input. Please enter valid numbers.")
     print("Error details:", ex)
 
+except SyntaxError as ex:
+    print("Syntax Error: Please enter the numbers in the correct format.")
+    print("Error details:", ex)
+
+else:
+    print("No exceptions occurred. The division was successful.")
+
 finally:
     print("Execution completed.")
